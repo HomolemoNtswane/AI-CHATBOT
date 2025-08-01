@@ -1,2 +1,8 @@
-Flask, render_template, request, session, redirect, url_for
+Flask
+render_template
+request
+session
+redirect
+url_for
 uuid
+
